@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning data analytic
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @ashuaanshu
-- 😄 Pronouns: Ashutosh
+- 😄 Pronouns: ashu
 - ⚡ Fun fact: 😁😁
 
 
