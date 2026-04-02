@@ -39,6 +39,7 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ashuaanshu&show_icons=true&theme=radical" />
+google-site-verification: google0e9f6913a282c7b1.html
 </p>
 
 <p align="center">
@@ -51,7 +52,7 @@
 <p>
 <a href="https://github.com/ashuaanshu">GitHub</a>
 </p>
-<meta name="google-site-verification" content="Sj5PtNQVZn5JF3evkPCgen4YkX59eaEZKcyU9E9_Vsk" />
+<meta name="google-site-verification" content="Sj5PtNQVZn5JF3evkPCgen4YkX59eaEZKcyU9E9_Vsk" /> 
 ---
 
 🔥 *"Building powerful AI systems & automation tools"*
