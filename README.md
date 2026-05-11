@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Ashutosh Kumar</h1>
-<h3 align="center">🚀 Python Developer | AI Tools Builder | Automation Expert</h3>
+<h1 align="center">Hi 👋, I'm Ashutosh Kumar | Python Developer</h1>
+<h3 align="center">FastAPI · Django · AI & Automation Engineer</h3>
 
 ---
 
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ### 🧠 About Me
-- 🔭 I’m currently working on **AI + Automation Systems**
-- 🤖 Building **RAG pipelines, Scrapers & Chatbots**
-- 💡 Focused on **real-world scalable products**
-- ⚡ Goal: Build systems used by millions
+- 🔭 Building **AI, Backend & Automation Systems**
+- 🤖 Developing **RAG Pipelines, AI Agents, Scrapers & Chatbots**
+- 💡 Focused on **FastAPI, scalable backend tools & growth automation**
+- ⚡ Mission: Build real-world products that scale to millions
 
 ---
 
@@ -48,8 +48,9 @@
 ---
 
 ### 🌐 Connect With Me
-<p>
-<a href="https://github.com/ashuaanshu">GitHub</a>
+<p><a href="https://github.com/ashuaanshu">GitHub</a> •
+<a href="https://linkedin.com/in/ashuaanshu">LinkedIn</a> •
+<a href="mailto:ashuaanshu@gmail.com">Email</a>
 </p>
 ---
 
